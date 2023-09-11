@@ -2,11 +2,12 @@
 ## Technologies
 HTML
 
-
 CSS
 
-
 Javascript
+
+## Visualisation
+![image info](/Analog_clock.png)
 
 ## About 
 
